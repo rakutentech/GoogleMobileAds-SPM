@@ -21,7 +21,7 @@ let package = Package(
                  "7.0.0"..<"9.0.0"
         ),
         .package(name: "GoogleUserMessagingPlatform-SPM",
-                 url: "https://github.com/Koze/GoogleUserMessagingPlatform-SPM.git",
+                 url: "https://github.com/rakutentech/GoogleUserMessagingPlatform-SPM.git",
                  "1.1.0"..."2.0.0")
     ],
     targets: [
